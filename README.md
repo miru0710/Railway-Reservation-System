@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220063
+# Name:Mirudhula N
+# Date:20/11/2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1338" height="893" alt="Screenshot 2026-10-23 124841" src="https://github.com/user-attachments/assets/7ceeb28a-aedc-4c63-ae5f-582fe34c6da2" />
 
 
 
@@ -118,6 +119,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1347" height="896" alt="Screenshot 2026-11-02 110610" src="https://github.com/user-attachments/assets/b38418e2-d495-4296-b8c7-d008e292ea36" />
 
 
 
